@@ -4,9 +4,18 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **agusmaty.a23@gmail.com**
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+  
+- 🎮 Gaming and exploring how technology can enhance entertainment experiences.
+  
+- 🌍 Exploring the intersection of technology, art, and design.
+  
+- 🛠️ Currently working with technologies like HTML, CSS, JavaScript, React, and Node.js.
+  
+- 🔧 Building a full-stack web app to learn about backend development and APIs.
+  
+-  📚 Passionate about learning new programming languages like Python, Java, and SQL.
 
-- ⚡ Fun fact :- Food, videogames and Music🎵 are the reasons to live.
 
 <br>
 
