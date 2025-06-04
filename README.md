@@ -26,8 +26,8 @@
        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
        alt="MTDEV" height="30" width="40" />
 </a>
-  <a href="https://www.hackerrank.com/agusmaty_a23" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+  <a href="https://www.codedex.io/@IronEva2312" target="blank"><img align="center"
+      src="https://github.com/user-attachments/assets/f882fdda-390b-4443-9c76-d17f67006b3d"
       alt="MTDEV" height="30" width="40" /></a>
 </p>
 
